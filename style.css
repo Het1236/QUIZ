@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+.question{
+    background-color: burlywood  ; 
+    min-width: 50%;
+    border: 2px solid brown;
+     margin: 10px;
+     padding: 10px;
+     border-radius: 25px;
+    }
+    button{
+        
+        margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: brown;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+input{
+    cursor: pointer;
+
+}
